@@ -1,0 +1,19 @@
+body{
+  font-size: 60px;
+  text-align: center;
+  font-weight: 700;
+}
+#game{
+  width: 210px;
+  height: 210px;
+  background: linear-gradient(#e73f07, #dbe510);
+  border-radius: 10px;
+}
+.block{
+  width: 70px;
+  height: 70px;
+  float: left;
+  border: 1px solid rgba(255, 255, 255, 0.518);
+  box-sizing: border-box;
+  border-radius: 10px;
+}
